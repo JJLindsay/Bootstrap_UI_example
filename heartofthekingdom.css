@@ -1,0 +1,96 @@
+
+.jumbotron {
+  background-image:url('corridor.jpg');
+  height: 700px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron2 {
+  background-image:url('dragon.jpg');
+  height: 660px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width:1300px;
+}
+
+.jumbotron3 {
+  background-image:url('dungeongarden.jpg');
+  height: 660px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width:1300px;
+  text-align:center;
+}
+
+.col-sm-4{
+margin: 260px 400px;
+height:150px;
+}
+
+.panel-title{
+color:red;
+height:150px;
+}
+
+.picframe{
+margin-left: 450px;
+}
+
+#the{
+size:60px;
+color:red;
+margin: -300px 300px;
+}
+
+#team{
+size: 60px;
+color:red;
+text-align:right;
+margin-top: 20%;
+margin-right:20%;
+}
+
+#hpagetitle{
+text-align:right;
+color: red;
+margin:20px;
+}
+
+#hpageform{
+opacity:0.7;
+}
+
+#about{
+vertical-align:-100px;
+text-align:center;
+}
+
+.jumbotron .container {
+  position: relative;
+  top:100px;
+}
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 55px;  
+  font-family: 'cursive';
+}
+
+.jumbotron p {
+  color: #fff;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.jumbotron form 
+{
+  font-size: 17px;
+  margin-top:200px;
+}
+
+
+
+.width-120px { 
+   width: 120px;
+}
